@@ -11,7 +11,7 @@ variable "subject" {
 variable "name" {
    type = string
    default = "value-of-name-variable"
-   description = "Name passed to hello"
+   description = "Name passed to hello 2"
 }
 
 output "hello_world" {
